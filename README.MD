@@ -48,7 +48,7 @@ The **Kubernetes CLI Helper** is designed for system administrators and develope
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/kubernetes-cli-helper.git
-   cd kubernetes-cli-helper
+   git clone https://github.com/kurogane13/kubernetes_cli_console.git
+   cd kubernetes_cli_console
    bash kubernets_cli.sh
    ```
