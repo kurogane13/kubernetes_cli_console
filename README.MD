@@ -1,5 +1,9 @@
 # Kubernetes CLI Helper
 
+## AUTHOR: GUSTAVO WYDLER AZUAGA
+## VERSION: 1
+## RELEASE DATE: 10-18-2024
+
 A simple, user-friendly bash script for managing Kubernetes clusters efficiently. This tool provides an interactive menu-based interface to perform common Kubernetes operations, reducing the need for manual command typing and enhancing productivity.
 
 ---
